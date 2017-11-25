@@ -1,4 +1,3 @@
-// Ernest Majdalani, ID: 40021641
 #ifndef _EMPLOYEE_
 #define _EMPLOYEE_
 
