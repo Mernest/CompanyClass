@@ -1,4 +1,3 @@
-// Ernest Majdalani, ID: 40021641
 #include "Company.h"
 
 int main() {
